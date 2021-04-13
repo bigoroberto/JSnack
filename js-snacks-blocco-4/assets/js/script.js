@@ -9,6 +9,7 @@ var listaInvitati = [
   "Mattia Tealdi",
   "Fabio Pisanelli",
   "Roberto Bigozzi",
+  "Ilaria Russo",
 ];
 
 // chiedere all'utente il suo nome
